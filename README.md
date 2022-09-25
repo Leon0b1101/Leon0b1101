@@ -8,7 +8,7 @@
 - :warning: I use Python, C# and JavaScript (Node.js), CSS and Bash
 - 💬 Ask me about everything!
 - :bomb: I know Linux and Databases
-- :radioactive: I know Hydrogen, React, Discord.js, Tailwindcss
+- :radioactive: I know React, Discord.js, Tailwindcss.
 - 📫 How to reach me: 
 [Twitter](https://twitter.com/Leon130109),
 [Replit](https://replit.com/@Leonstudios)
