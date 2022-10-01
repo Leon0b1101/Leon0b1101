@@ -2,13 +2,13 @@
 #### I am Leon!
 - 🔭 I’m currently working on my Website
 - :dizzy: I am a Fullstack Web Developer
-- :white_check_mark: I also like Embedded systems and Systems Programming
+- :white_check_mark: I also like Game Development and Systems Programming
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on a lot of Projects
 - :warning: I use Python, C# and JavaScript (Node.js), CSS and Bash
 - 💬 Ask me about everything!
 - :bomb: I know Linux and Databases
-- :radioactive: I know React, Discord.js, Tailwindcss.
+- :radioactive: I know Express, Discord.js, Tailwindcss.
 - 📫 How to reach me: 
 [Twitter](https://twitter.com/Leon130109),
 [Replit](https://replit.com/@Leonstudios)
