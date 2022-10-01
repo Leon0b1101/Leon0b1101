@@ -11,7 +11,8 @@
 - :radioactive: I know Express, Discord.js, Tailwindcss.
 - 📫 How to reach me: 
 [Twitter](https://twitter.com/Leon130109),
-[Replit](https://replit.com/@Leonstudios)
+[Replit](https://replit.com/@Leonstudios),
+[Discord](https://discord.com/users/967709849259499564)
 #### Buy me a Coffee
 [Paypal](https://www.paypal.com/paypalme/leonzampa)
 - ⚡ Fun fact: You are on my 
