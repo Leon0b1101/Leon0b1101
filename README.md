@@ -2,7 +2,7 @@
 #### I am Leon!
 - 🔭 I’m currently working on my Website
 - :dizzy: I am a Fullstack Web Developer
-- :white_check_mark: I also like Game Development and Systems Programming
+- :white_check_mark: I also like Game Development
 - 🌱 I’m currently learning C++ and Rust
 - 👯 I’m looking to collaborate on a lot of Projects
 - :warning: I use Python, C# and JavaScript (Node.js), CSS and Bash
