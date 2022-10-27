@@ -5,7 +5,7 @@
 - :white_check_mark: I also like Systems Programming and Software Development
 - 🌱 I’m currently learning and Rust
 - 👯 I’m looking to collaborate on a lot of Projects
-- :warning: I use Python, C# and JavaScript (Node.js), CSS and Bash
+- :warning: I use Python, C# and JavaScript (Node.js), CSS, HTML, Bash and R.
 - 💬 Ask me about everything!
 - :bomb: I know Linux and Databases
 - :radioactive: I know Express, Discord.js, Tailwindcss.
