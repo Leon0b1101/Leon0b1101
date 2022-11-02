@@ -5,7 +5,7 @@
 - :white_check_mark: I also like Software Development (Engineering) and Software Development
 - 🌱 I’m currently learning and Rust
 - 👯 I’m looking to collaborate on a lot of Projects
-- :warning: I use Python, C#, C++ and JavaScript (Node.js), CSS, HTML, Bash and R.
+- :warning: I use Python, C#, Rust, C++ and JavaScript (Node.js), CSS, HTML, Bash and R.
 - 💬 Ask me about everything!
 - :bomb: I know Linux and Databases
 - :radioactive: I know Express, Discord.js, Tailwindcss.
