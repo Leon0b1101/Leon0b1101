@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I am Leon!
 - 🔭 I’m currently working on a lot of FullStack Web Apps
-- :dizzy: I am a Fullstack Developer and Systems Developer
+- :dizzy: I am a Fullstack Developer, Software Developer and Systems Developer
 - :white_check_mark: I also like Software Development (Engineering) and Software Development
 - 🌱 I’m currently learning and Rust
 - 👯 I’m looking to collaborate on a lot of Projects
