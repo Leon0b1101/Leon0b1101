@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I am Leon!
 - 🔭 I’m currently working on a lot of FullStack Web Apps
-- :dizzy: I am a Fullstack Developer, Software Developer and Systems Developer
+- :dizzy: I am a Fullstack Developer
 - :white_check_mark: I also like Software Development (Engineering) and Software Development
 - 🌱 I’m currently learning and Rust
 - 👯 I’m looking to collaborate on a lot of Projects
@@ -13,7 +13,5 @@
 [Twitter](https://twitter.com/Leon130109),
 [Replit](https://replit.com/@Leonstudios),
 [Discord](https://discord.com/users/967709849259499564)
-#### Buy me a Coffee
-[Paypal](https://www.paypal.com/paypalme/leonzampa)
 - ⚡ Fun fact: You are on my 
 [Github](https://github.com/Leon0b1101) <br>
