@@ -1,15 +1,14 @@
 ### Hi there 👋
 #### I am Leon!
-- 🔭 I’m currently working on a lot of FullStack Web Apps
-- :dizzy: I am a Fullstack Developer
-- :white_check_mark: I also like Software Development (Engineering) and Software Development
+- 🔭 I’m currently still learning
+- ☢️ I am a Fullstack Developer and Systems Programmer
+- ✅ I also like System Administration
 - 🌱 I’m currently learning and Rust
 - 👯 I’m looking to collaborate on a lot of Projects
-- :warning: I use Python, C#, Rust, C++ and JavaScript (Node.js), CSS, HTML, Bash and R.
+- ⚠️ I use Python, C#, Rust, C++ and JavaScript (Node.js) and Go.
 - 💬 Ask me about everything!
-- :bomb: I know Linux and Databases
-- :radioactive: I know Express, Discord.js, Tailwindcss.
-- 📫 How to reach me: 
+- 💣 I know Linux and Databases
+- 📫 How to reach me:
 [Twitter](https://twitter.com/Leon130109),
 [Replit](https://replit.com/@Leonstudios),
 [Discord](https://discord.com/users/967709849259499564)
