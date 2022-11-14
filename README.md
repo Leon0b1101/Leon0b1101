@@ -5,7 +5,7 @@
 - ✅ I also like System Administration
 - 🌱 I’m currently learning and Rust
 - 👯 I’m looking to collaborate on a lot of Projects
-- ⚠️ I use Python, C#, Rust, C++ and JavaScript (Node.js) and Go.
+- ⚠️ I use Python, C#, Rust and JavaScript (Node.js), Go.
 - 💬 Ask me about everything!
 - 💣 I know Linux and Databases
 - 📫 How to reach me:
