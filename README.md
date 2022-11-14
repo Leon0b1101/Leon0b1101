@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I am Leon!
 - 🔭 I’m currently still learning
-- ☢️ I am a Fullstack Developer and Systems Programmer
+- ☢️ I am a Fullstack Developer and Software Developer
 - ✅ I also like System Administration
 - 🌱 I’m currently learning and Rust
 - 👯 I’m looking to collaborate on a lot of Projects
