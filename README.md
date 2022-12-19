@@ -2,12 +2,10 @@
 #### I am Leon!
 - 🔭 I’m currently still learning
 - ☢️ I am a Fullstack Developer and Software Developer
-- ✅ I also like System Administration
-- 🌱 I’m currently learning and Rust
+- ✅ I would like to learn about Game Development
 - 👯 I’m looking to collaborate on a lot of Projects
 - ⚠️ I use Python, C#, Rust and JavaScript (Node.js), Go.
 - 💬 Ask me about everything!
-- 💣 I know Linux and Databases
 - 📫 How to reach me:
 [Twitter](https://twitter.com/Leon130109),
 [Replit](https://replit.com/@Leonstudios),
